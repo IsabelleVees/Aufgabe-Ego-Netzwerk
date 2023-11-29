@@ -1,0 +1,13 @@
+Codebuch,
+Relationship,
+1,Partner/in
+2,Schwester
+3,Freund/in
+4,Mannschaftskamerad/in
+5,Bekannte
+,
+Weight,
+1,schwache Beziehung
+2,mittlere Beziehung
+3,starke Beziehung
+0,keine Beziehung
